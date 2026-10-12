@@ -1,9 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-09.1",
-  "updatedAt": "2026-10-09",
+  "version": "2026-10-12.1",
+  "updatedAt": "2026-10-12",
   "disabled": [],
   "aiDisallowed": [],
   "analysisDisallowed": [],
-  "notice": null
+  "notice": null,
+  "groupingDisallowed": []
 }
